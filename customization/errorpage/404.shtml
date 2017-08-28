@@ -1,0 +1,6 @@
+<!--#set var="ERRORPAGE_CODE" value="404" -->
+<!--#set var="ERRORPAGE_TEXT" value="Not Found" -->
+
+<!--#include file="header.shtml" -->
+	<div>The requested resource was not found on this server.</div>
+<!--#include file="footer.shtml" -->
